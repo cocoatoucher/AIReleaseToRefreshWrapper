@@ -47,3 +47,6 @@ There is an "AISampleReleaseToRefreshView" sample class in the project at which 
     //An example to this would be a spinning wheel which is rotated according to current scroll position of the scroll view
     @property(nonatomic, assign) double readyProgress;
     
+![Screenshot 1](http://f.cl.ly/items/101G3E303E1l0R3h1b04/iOS%20Simulator%20Screen%20shot%20Jan%205,%202013%209.11.05%20PM.png)
+![Screenshot 2](http://f.cl.ly/items/0l0J393Q3w151c160j08/iOS%20Simulator%20Screen%20shot%20Jan%205,%202013%209.11.22%20PM.png)
+![Screenshot 3](http://f.cl.ly/items/0x112t130q1n3n1e3x1G/iOS%20Simulator%20Screen%20shot%20Jan%205,%202013%209.11.25%20PM.png)
